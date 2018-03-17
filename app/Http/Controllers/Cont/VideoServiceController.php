@@ -12,6 +12,15 @@ class VideoServiceController extends Controller
 
     const VIDEO_SERVICE_COOKIE = 'VIDEO_SERVICE_COOKIE';
 
+
+    /**
+     * 清除视频服务器缓存
+     */
+    static public function clearVideoServiceCookie()
+    {
+        \setcookie(self::VIDEO_SERVICE_COOKIE,'',-1,'/');
+    }
+
     /**
      * 获取默认视频服务器地址
      * @return mixed|string

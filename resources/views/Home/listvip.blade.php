@@ -5,6 +5,7 @@
             <h3>VIP視頻</h3>
             <span>網站每日不定時更新視頻，并提供專享與VIP會員的高速服務器進行觀看</span>
         </div>
+        @include('Common.listbanner')
         <div class="row" id="video-vip">
         </div>
         <nav aria-label="..." id="page-js">

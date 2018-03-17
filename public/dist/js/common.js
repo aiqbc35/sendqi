@@ -166,6 +166,6 @@ function downPage(url,page) {
         alert1('已是第后一页');
         return;
     }
-    window.location.href = url + '?page=' + (page + 1);
+    window.location.href = url + '?page=' + page;
     return;
 }

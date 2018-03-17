@@ -19,6 +19,17 @@
         </div>
     </div>
     <div class="line-hr" style="margin-top: 30px;"></div>
+    <div class="row">
+        <div class="col-md-12">
+            @if(Session()->has('USER_INFO_CACHE'))
+                <a href="/member/vip">
+                    @else
+                        <a href="javascript:;" data-toggle="modal" data-target="#exampleModal">
+                            @endif
+                            <img src="/demo/view.gif" alt="" style="width: 100%;">
+                        </a>
+        </div>
+    </div>
     <div class="container">
         <div class="sun-title">
             <h3>隨機推薦</h3>

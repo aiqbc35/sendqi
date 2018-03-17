@@ -9,7 +9,7 @@ class CodeController
 {
     static private $sqlCode;
     static private $newCode;
-    static private $day = [30,182,365];
+    static private $day = [1,30,182,365];
     static private $type = 30;
 
     public function index ()

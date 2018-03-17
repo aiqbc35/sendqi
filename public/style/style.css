@@ -4,6 +4,9 @@ body { padding-top: 120px; }
     height: 100px;
     background-color: #ffffff;
 }
+.thumbnail a h3 {
+    font-size: 16px;
+}
 .title{
     font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;;
     text-transform: uppercase;

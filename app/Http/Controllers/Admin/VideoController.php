@@ -26,6 +26,19 @@ class VideoController
         return (new ImageServiceController())->getCacheLink();
     }
 
+    public function setvideomu(Request $request)
+    {
+        $id = $request->get('id');
+        $arrayId = explode(",",$id);
+        $video = Video::whereIn('id',$arrayId)->get();
+        foreach ($video as $key=>$value){
+            $value->link = $value->link . '.m3u8';
+            $value->save();
+        }
+        dd($video);
+    }
+
+
     public function add (Request $request)
     {
 
@@ -188,7 +201,7 @@ class VideoController
     public function vip ()
     {
 
-        $ret = Video::with('sort')->where('type','=',1)->where('status','=',1)->get();
+        $ret = Video::with('sort')->where('type','=',1)->where('length','=',0)->where('status','=',1)->get();
         return view('Admin.video',[
             'name' => 'VIP VIDEO',
             'list' => $ret,

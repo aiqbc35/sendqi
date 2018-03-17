@@ -10,6 +10,12 @@ use Illuminate\Support\Facades\Cache;
 
 class HomeController extends Controller
 {
+
+    public function __construct()
+    {
+        UserController::autoLogin();
+    }
+
     /**
      * PC首页视图
      * @return \Illuminate\Contracts\View\Factory|\Illuminate\View\View

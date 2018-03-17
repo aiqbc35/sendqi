@@ -20,7 +20,7 @@ class VideoController extends Controller
      * @param int $limit 共查询多少
      * @return mixed
      */
-    public function getList($status,$type,$orderStr,$orderType = 'desc',$length = 0,$offset = 0,$limit = 8)
+    public function getList($status,$type,$orderStr,$orderType = 'desc',$length = 0,$offset = 0,$limit = 12)
     {
         $result = Video::where('status','=',$status)
             ->where('type','=',$type)
@@ -153,7 +153,12 @@ class VideoController extends Controller
 
         $randId = array_rand($videoId,8);
 
-        $video = Video::whereIn('id',$randId)->get();
+        $id = [];
+        foreach ($randId as $value){
+            $id[] = $videoId[$value];
+        }
+
+        $video = Video::whereIn('id',$id)->get();
         $videoForm = self::sqlToData($video);
 
         return self::ResponseJson(1,'',$videoForm);
@@ -165,15 +170,15 @@ class VideoController extends Controller
      */
     private function getVideoId()
     {
-        //Cache::forget('VIDEO_ID');
-        if (Cache::has('VIDEO_ID')) {
-            $video = Cache::get('VIDEO_ID');
+        //Cache::forget('VIDEO_RAND_ID');
+        if (Cache::has('VIDEO_RAND_ID')) {
+            $video = Cache::get('VIDEO_RAND_ID');
         }else{
             $video = Video::where('status','=',1)
             ->get(['id']);
             $video = $video->toArray();
             $video = array_column($video,'id');
-            Cache::put('VIDEO_ID',$video,3600);
+            Cache::put('VIDEO_RAND_ID',$video,3600);
         }
         return $video;
     }

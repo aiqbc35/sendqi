@@ -13,7 +13,7 @@ class LinkController extends Controller
      */
     public function getList()
     {
-        $links = Links::get();
+        $links = Links::orderBy('sort','asc')->get();
         return $links;
     }
 }

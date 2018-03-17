@@ -24,8 +24,14 @@ class SystemController
 
     public function clearCache()
     {
+        //清除首页缓存
         Cache::forget('homeAll');
+        //清除图片服务器缓存
         Cache::forget('imagesLinks');
+        //清除公告缓存
+        Cache::forget('TopvideoNotice');
+        //清除随机视频
+        Cache::forget('VIDEO_ID');
 
         return redirect('/admin/htadmin');
     }

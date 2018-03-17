@@ -185,7 +185,7 @@
             </span>
                     </a>
                     <ul class="treeview-menu">
-                        {{--<li class="{{(isset($_GET['id']) && $_GET['id'] == 1) ? 'active' : ''}}"><a href="{{url('/admin/code?id=1')}}"><i class="fa fa-circle-o text-aqua"></i> 1 day</a></li>--}}
+                        <li class="{{(isset($_GET['id']) && $_GET['id'] == 1) ? 'active' : ''}}"><a href="{{url('/admin/code?id=1')}}"><i class="fa fa-circle-o text-aqua"></i> 1 day</a></li>
                         <li class="{{ (isset($_GET['id']) && $_GET['id'] == 30) ? 'active' : ''}}"><a href="{{url('/admin/code?id=30')}}"><i class="fa fa-circle-o text-aqua"></i> 1 month</a></li>
                         <li class="{{(isset($_GET['id']) && $_GET['id'] == 182) ? 'active' : ''}}"><a href="{{url('/admin/code?id=182')}}"><i class="fa fa-circle-o text-aqua"></i> 1 Quarterly</a></li>
                         <li class="{{(isset($_GET['id']) && $_GET['id'] == 365) ? 'active' : ''}}"><a href="{{url('/admin/code?id=365')}}"><i class="fa fa-circle-o text-aqua"></i> 1 year</a></li>

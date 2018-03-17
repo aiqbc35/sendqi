@@ -9,4 +9,6 @@ class Notice extends Model
     protected $table = 'notice';
 
     public $timestamps = false;
+
+    protected $fillable = ['title','content','addtime'];
 }

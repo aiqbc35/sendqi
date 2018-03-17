@@ -148,7 +148,7 @@ function crateVideoHtml(data)
 
         _html += '<div class="col-md-3"><div class="thumbnail">\n' +
             '<a href="/view?id='+ e.id +'"><img src="'+ e.thumb +'" alt="'+e.title+'" class="img-responsive"></a><div class="caption">\n' +
-            '<a href="/view?id='+ e.id +'"><h3>'+ subString(e.title,16,1) +'</h3></a>\n' +
+            '<a href="/view?id='+ e.id +'"><h3>'+ subString(e.title,24,1) +'</h3></a>\n' +
             '<div class="ico">\n' +
             '<i class="icon-play"></i><span class="play-data">'+ e.hit +'</span>\n' +
             '<i class="icon-update posit-right"></i><span class="update-date">'+ e.adddate +'</span>\n' +
@@ -188,7 +188,7 @@ function pageStyle(totalPage,page,pageUrl)
     var pageHtml = $(".pager > li");
     totalPage = totalPage - 1;
     page = parseInt(page);
-    if (totalPage <= 1) {
+    if (totalPage < 1) {
         $("#page-js").remove();
     }else if(page > totalPage){
         layer.msg('不存在的分页');

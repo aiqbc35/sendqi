@@ -4,6 +4,7 @@ window.onload = function(){
     $.get("Api/getVideoList", { type: 1, page: page }, function(e){
         if (e.code == 'success') {
             totalPage = pageTotal(e.data.count);
+
             pageStyle(totalPage,page,'/list-vip');
             _html = crateVideoHtml(e.data.list);
         }else{

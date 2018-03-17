@@ -45,19 +45,23 @@
         <!-- /.box-body -->
     </div>
     <script type="text/javascript">
-        window.onload = function(){
 
-            $(".btn-danger").click(function(event){
+
+        
+        window.onload = function () {
+            $(document).on('click','.btn-danger',function () {
                 id = $(this).data('id');
-                if (id) {
-                    $.get("/admin/link/delete", { id: id}, function(data){
-                        alert(data.msg);
-                        if (data.status == 1) {
-                            window.location.reload();
-                        }
-                    },'json');
-                }
+            if (id) {
+                $.get("/admin/link/delete", { id: id}, function(data){
+                    alert(data.msg);
+                    if (data.status == 1) {
+                        window.location.reload();
+                    }
+                },'json');
+            }
             });
         }
+
+
     </script>
 @stop

@@ -12,7 +12,20 @@
 <body ontouchstart>
 <div class="container margin-bottom-60" id="container">
     <div class="page navbar js_show">
-        <div class="page__bd" style="height: 100%;">
+        <div class="page__hd" style="position: fixed;width: 100%;left: 0;top: 0px;height: 2rem;z-index: 999;">
+            <div class="weui-flex">
+                <div class="weui-flex__item" style="line-height: 3em;text-align: center;background-color: #dff0d8;color: #3c763d;">
+                    @if(Session()->has('USER_INFO_CACHE'))
+                    <a href="/mobile/member/vip" style="color: #3c763d;">
+                    @else
+                            <a href="/mobile/register" style="color: #3c763d;">
+                                @endif
+                        优惠进行中，VIP只需18元！点击领取
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="page__bd" style="height: 100%; margin-top: 3em;">
             <div class="weui-tab">
                 <div class="weui-navbar">
                     <div class="weui-navbar__item background-common">
@@ -46,7 +59,10 @@
             <p class="weui-tabbar__label">免费</p>
         </a>
         <a href="/mobile/list-vip" class="weui-tabbar__item {{ Request::getPathInfo() == '/mobile/list-vip' ? 'weui-bar__item_on' : ''}}">
+            <span style="display: inline-block;position: relative;">
             <img src="/dist/images/vip.png" alt="" class="weui-tabbar__icon">
+            <span class="weui-badge" style="position: absolute;top: -2px;right: -13px;">18元</span>
+                    </span>
             <p class="weui-tabbar__label">VIP</p>
         </a>
         <a href="/mobile/list-long" class="weui-tabbar__item {{ Request::getPathInfo() == '/mobile/list-long' ? 'weui-bar__item_on' : ''}}">
@@ -69,7 +85,18 @@
 <div id="alert-info"></div>
 <script src="/dist/js/zepto.min.js"></script>
 <script src="https://res.wx.qq.com/open/libs/weuijs/1.0.0/weui.min.js"></script>
-<script src="/dist/js/common.js?v0.1"></script>
+<script src="/dist/js/common.js?v0.2"></script>
 @yield('script')
+<div style="display: none">
+    <script>
+        var _hmt = _hmt || [];
+        (function() {
+            var hm = document.createElement("script");
+            hm.src = "https://hm.baidu.com/hm.js?b6bb55e5c8cfeee093fc2a91a983142d";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</div>
 </body>
 </html>

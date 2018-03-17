@@ -59,6 +59,9 @@ class UserController extends Controller
         self::updateUserVipStatus($cache);
 
         self::setUserCookie($result->id);
+
+        VideoServiceController::clearVideoServiceCookie();
+
         $url = URL('/member');
         return self::ResponseJson(1,'登陆成功',['url'=>$url]);
     }
@@ -247,6 +250,7 @@ class UserController extends Controller
                 return $result;
             }
             \setcookie(self::USER_INFO_COOKIE,'',-1,'/');
+            VideoServiceController::clearVideoServiceCookie();
             return false;
         }
         return false;
@@ -261,6 +265,7 @@ class UserController extends Controller
         Session()->forget(self::USER_INFO_SESSION);
 
         $cookie = Cookie::forget(self::USER_INFO_COOKIE);
+        VideoServiceController::clearVideoServiceCookie();
         return redirect('/')->withCookie($cookie);
     }
 

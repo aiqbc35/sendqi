@@ -5,6 +5,7 @@
             <h3>免費視頻</h3>
             <span>網站不定時會更新免費視頻，並且提供多線路高速視頻瀏覽</span>
         </div>
+        @include('Common.listbanner')
         <div class="row" id="video-free">
 
         </div>

@@ -33,13 +33,16 @@
                         </div>
                         <div class="panel-body">
                             <label class="radio-inline text-primary">
-                                <input type="radio" name="inlineRadioOptions" id="inlineRadio1" value="68"> 1月/68元
+                                <input type="radio" name="inlineRadioOptions" id="inlineRadio1" value="18"> 1天/18元
                             </label>
                             <label class="radio-inline text-primary">
-                                <input type="radio" name="inlineRadioOptions" id="inlineRadio2" value="120"> 半年/120元
+                                <input type="radio" name="inlineRadioOptions" id="inlineRadio1" value="68"> 1月/38元
                             </label>
                             <label class="radio-inline text-primary">
-                                <input type="radio" checked name="inlineRadioOptions" id="inlineRadio3" value="180"> 1年/180元
+                                <input type="radio" name="inlineRadioOptions" id="inlineRadio2" value="120"> 半年/68元
+                            </label>
+                            <label class="radio-inline text-primary">
+                                <input type="radio" checked name="inlineRadioOptions" id="inlineRadio3" value="180"> 1年/98元
                             </label>
 
                             <button type="button" class="btn btn-blue-default" style="margin-left: 50px;" id="shop_code">购买</button>

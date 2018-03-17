@@ -76,5 +76,16 @@
 <script src="https://cdn.bootcss.com/layer/3.1.0/layer.js"></script>
 <script src="/js/common.js?v0.3"></script>
 @yield('script')
+<div style="display: none">
+    <script>
+        var _hmt = _hmt || [];
+        (function() {
+            var hm = document.createElement("script");
+            hm.src = "https://hm.baidu.com/hm.js?b6bb55e5c8cfeee093fc2a91a983142d";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</div>
 </body>
 </html>

@@ -64,6 +64,17 @@
         <div class="alert alert-blue margin-top-20" role="alert">
             簡訊：Godsky在線視頻網址找回請發送任意內容至wwwgodskyorg@mail.ru或免費註冊本站會員即可自動獲取最新網址。
         </div>
+        <div class="row">
+            <div class="col-md-12">
+                @if(Session()->has('USER_INFO_CACHE'))
+                <a href="/member/vip">
+                    @else
+                        <a href="javascript:;" data-toggle="modal" data-target="#exampleModal">
+                    @endif
+                    <img src="/demo/home.gif" alt="" style="width: 100%;">
+                </a>
+            </div>
+        </div>
     </div>
     <div class="container">
         <div class="sun-title">
