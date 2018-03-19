@@ -15,6 +15,7 @@
                     <th>VipTime</th>
                     <th>AddTime</th>
                     <th>IsMobile</th>
+                    <th>VIPStopTime</th>
                     <th>SetUp</th>
                 </tr>
                 </thead>
@@ -32,6 +33,11 @@
                     <td>{{date('Y-m-d',$value->addtime)}}</td>
                     <td>
                         {{ $value->ismobile }}
+                    </td>
+                    <td>
+                        @if($value->vipstoptime != '')
+                            {{ date('Y-m-d H:i:s',$value->vipstoptime) }}
+                            @endif
                     </td>
                     <td>
                         @if ($value->type == 0)

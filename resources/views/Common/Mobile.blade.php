@@ -5,9 +5,15 @@
     <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=0,viewport-fit=cover">
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <title>QiSky在線視頻</title>
-    <link href="https://cdn.bootcss.com/weui/1.1.2/style/weui.min.css" rel="stylesheet">
+    <link href="https://cdn.staticfile.org/weui/1.1.1/style/weui.min.css" rel="stylesheet">
     <link href="/dist/style.css?v0.5" rel="stylesheet">
     @yield('css')
+    <script type="text/javascript">
+
+        if (!(navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href="/";
+        }
+    </script>
 </head>
 <body ontouchstart>
 <div class="container margin-bottom-60" id="container">

@@ -85,7 +85,7 @@ class ApiController extends Controller
         $page = $request->get('page') ? $request->get('page') : 0;
         $length = $request->get('length') ? $request->get('length') : 0;
 
-        $limit = 20;
+        $limit = 32;
         $offset = $page * $limit;
 
         $videoModel = (new VideoController());

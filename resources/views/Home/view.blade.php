@@ -1,6 +1,6 @@
 @extends('Common.Home')
 @section('css')
-    <link href="https://cdn.bootcss.com/video.js/6.6.2/video-js.css" rel="stylesheet">
+    <link href="/plugin/video.js-6.7.4/dist/video-js.css" rel="stylesheet">
 @stop
 @section('content')
     <div class="container">
@@ -41,7 +41,7 @@
     @include('Common.RegLogin')
 @stop
 @section('script')
-    <script src="https://cdn.bootcss.com/video.js/6.6.2/video.js"></script>
-    <script src="https://cdn.bootcss.com/videojs-contrib-hls/5.12.2/videojs-contrib-hls.min.js"></script>
+    <script src="/plugin/video.js-6.7.4/dist/video.js"></script>
+    <script src="/plugin/videojs-contrib-hls.min.js"></script>
     <script type="application/javascript" src="/js/view.js?v0.7"></script>
 @stop
