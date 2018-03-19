@@ -1,6 +1,6 @@
 @extends('Common.Mobile')
 @section('css')
-    <link href="/plugin/video.js-6.7.4/dist/video-js.css" rel="stylesheet">
+    <link href="/plugin/video.js-6.7.4/video-js.css" rel="stylesheet">
 @stop
 @section('content')
     <div class="weui-flex">
@@ -32,7 +32,7 @@
     <div id="long" class="font-size-03"></div>
 @stop
 @section('script')
-    <script src="/plugin/video.js-6.7.4/dist/video.js"></script>
+    <script src="/plugin/video.js-6.7.4/video.js"></script>
     <script src="/plugin/videojs-contrib-hls.min.js"></script>
     <script type="application/javascript" src="/dist/js/view.js?v0.1"></script>
 @stop

@@ -2,437 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28a9863a-d1f1-4b72-8dfb-57d16f68282a" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/CODE_OF_CONDUCT.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/COLLABORATOR_GUIDE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/build/assets.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/build/bin/prerelease" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/build/bin/version" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/build/current-changelog.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/build/docs-only.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/build/docs/styles/videojs.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/build/fix-api-docs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/build/generate-example.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/build/gh-release.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/build/grunt.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/build/license-header.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/build/netlify-docs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/build/options-customizer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/build/rollup.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/build/tasks/cdn-links.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/build/tasks/languages.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/build/tasks/sandbox.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/build/tasks/style-injection.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/build/tasks/test-local.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/build/tasks/vjs-version.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/build/version.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/composer.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/examples/elephantsdream/captions.ar.vtt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/examples/elephantsdream/captions.en.vtt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/examples/elephantsdream/captions.ja.vtt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/examples/elephantsdream/captions.ru.vtt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/examples/elephantsdream/captions.sv.vtt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/examples/elephantsdream/chapters.en.vtt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/examples/elephantsdream/descriptions.en.vtt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/examples/elephantsdream/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/examples/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/examples/shared/example-captions.vtt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/examples/simple-embed/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/guides/audio-tracks.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/guides/components.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/guides/debugging.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/guides/embeds.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/guides/event-target.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/guides/faq.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/guides/hooks.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/guides/languages.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/guides/middleware.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/guides/modal-dialog.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/guides/options.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/guides/player-workflows.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/guides/plugins.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/guides/react.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/guides/setup.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/guides/skins.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/guides/tech.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/guides/text-tracks.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/guides/tracks.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/guides/troubleshooting.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/guides/video-tracks.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/guides/videojs.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/guides/webpack.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/index.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/assets/api-doc-template-min.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/assets/api-doc-template.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/assets/create-doc-files-test.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/assets/create-doc-files.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/audio-track-button.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/big-play-button.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/button.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/caption-settings-menu-item.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/captions-button.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/captions-track.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/chapters-button.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/chapters-track-menu-item.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/chapters-track.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/clickable-component.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/close-button.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/component.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/control-bar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/css/api-docs.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/css/api-index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/current-time-display.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/custom-control-spacer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/duration-display.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/error-display.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/flash.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/fullscreen-toggle.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/fullscreen-toggle.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/html-track-element.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/html5.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/js/api-docs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/js/api-index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/js/doc-data-full.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/js/doc-data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/js/doc-script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/js/highlight-syntax.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/live-display.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/load-progress-bar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/loader.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/loading-spinner.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/md.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/menu-button.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/menu-item.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/menu.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/modal-dialog.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/mouse-time-display.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/mute-toggle.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/off-text-track-menu-item.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/play-progress-bar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/play-toggle.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/playback-rate-menu-button.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/playback-rate-menu-item.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/player.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/popup-button.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/popup.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/poster-image.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/progress-control.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/remaining-time-display.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/seek-bar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/seekhandle.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/slider.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/spacer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/subtitles-button.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/subtitlestrack.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/tech.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/text-track-button.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/text-track-display.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/text-track-menu-item.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/text-track-settings.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/texttrack.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/time-divider.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/video.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/volume-bar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/volume-control.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/volume-level.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/api/volume-menu-button.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/css/guides-gh.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/css/guides.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/examples/elephantsdream/captions.ar.vtt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/examples/elephantsdream/captions.en.vtt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/examples/elephantsdream/captions.ja.vtt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/examples/elephantsdream/captions.ru.vtt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/examples/elephantsdream/captions.sv.vtt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/examples/elephantsdream/chapters.en.vtt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/examples/elephantsdream/descriptions.en.vtt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/examples/elephantsdream/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/examples/shared/example-captions.vtt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/examples/simple-embed/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/guides/api.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/guides/audio-tracks.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/guides/components.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/guides/glossary.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/guides/languages.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/guides/options.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/guides/plugins.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/guides/removing-players.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/guides/setup.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/guides/skins.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/guides/tech.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/guides/text-tracks.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/guides/tracks.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/guides/video-tracks.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/images/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/js/guides.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/js/home.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/legacy-docs/js/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/docs/translations-needed.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/lang/ar.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/lang/ba.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/lang/bg.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/lang/ca.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/lang/cs.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/lang/da.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/lang/de.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/lang/el.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/lang/en.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/lang/es.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/lang/fa.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/lang/fi.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/lang/fr.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/lang/gl.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/lang/he.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/lang/hr.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/lang/hu.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/lang/it.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/lang/ja.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/lang/ko.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/lang/nb.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/lang/nl.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/lang/nn.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/lang/pl.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/lang/pt-BR.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/lang/pt-PT.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/lang/ru.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/lang/sk.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/lang/sr.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/lang/sv.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/lang/tr.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/lang/uk.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/lang/vi.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/lang/zh-CN.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/lang/zh-TW.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/package-lock.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/sandbox/combined-tracks.html.example" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/sandbox/descriptions.html.example" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/sandbox/embeds.html.example" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/sandbox/flash.html.example" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/sandbox/icons.html.example" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/sandbox/index.html.example" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/sandbox/language.html.example" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/sandbox/middleware-play.html.example" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/sandbox/plugin.html.example" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/css/_print.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/css/_private-variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/css/_utilities.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/css/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/css/components/_adaptive.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/css/components/_audio.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/css/components/_big-play.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/css/components/_button.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/css/components/_captions-settings.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/css/components/_captions.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/css/components/_chapters.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/css/components/_close-button.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/css/components/_control-bar.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/css/components/_control-spacer.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/css/components/_control.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/css/components/_descriptions.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/css/components/_error.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/css/components/_fullscreen.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/css/components/_layout.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/css/components/_live.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/css/components/_loading.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/css/components/_modal-dialog.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/css/components/_play-pause.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/css/components/_playback-rate.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/css/components/_poster.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/css/components/_progress.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/css/components/_slider.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/css/components/_subs-caps.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/css/components/_subtitles.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/css/components/_text-track.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/css/components/_time.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/css/components/_volume.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/css/components/menu/_menu-inline.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/css/components/menu/_menu-popup.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/css/components/menu/_menu.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/css/ie8.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/css/utilities/_linear-gradient.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/css/video-js.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/css/vjs-cdn.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/css/vjs.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/big-play-button.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/button.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/clickable-component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/close-button.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/control-bar/audio-track-controls/audio-track-button.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/control-bar/audio-track-controls/audio-track-menu-item.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/control-bar/control-bar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/control-bar/fullscreen-toggle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/control-bar/live-display.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/control-bar/mute-toggle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/control-bar/play-toggle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/control-bar/playback-rate-menu/playback-rate-menu-button.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/control-bar/playback-rate-menu/playback-rate-menu-item.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/control-bar/progress-control/load-progress-bar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/control-bar/progress-control/mouse-time-display.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/control-bar/progress-control/play-progress-bar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/control-bar/progress-control/progress-control.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/control-bar/progress-control/seek-bar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/control-bar/progress-control/time-tooltip.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/control-bar/spacer-controls/custom-control-spacer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/control-bar/spacer-controls/spacer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/control-bar/text-track-controls/caption-settings-menu-item.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/control-bar/text-track-controls/captions-button.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/control-bar/text-track-controls/chapters-button.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/control-bar/text-track-controls/chapters-track-menu-item.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/control-bar/text-track-controls/descriptions-button.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/control-bar/text-track-controls/off-text-track-menu-item.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/control-bar/text-track-controls/subs-caps-button.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/control-bar/text-track-controls/subs-caps-menu-item.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/control-bar/text-track-controls/subtitles-button.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/control-bar/text-track-controls/text-track-button.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/control-bar/text-track-controls/text-track-menu-item.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/control-bar/time-controls/current-time-display.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/control-bar/time-controls/duration-display.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/control-bar/time-controls/remaining-time-display.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/control-bar/time-controls/time-display.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/control-bar/time-controls/time-divider.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/control-bar/track-button.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/control-bar/volume-control/check-volume-support.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/control-bar/volume-control/volume-bar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/control-bar/volume-control/volume-control.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/control-bar/volume-control/volume-level.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/control-bar/volume-panel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/error-display.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/event-target.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/extend.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/fullscreen-api.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/loading-spinner.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/media-error.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/menu/menu-button.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/menu/menu-item.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/menu/menu.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/mixins/evented.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/mixins/stateful.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/modal-dialog.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/player.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/poster-image.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/resize-manager.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/setup.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/slider/slider.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/tech/html5.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/tech/loader.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/tech/middleware.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/tech/tech.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/tracks/audio-track-list.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/tracks/audio-track.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/tracks/html-track-element-list.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/tracks/html-track-element.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/tracks/text-track-cue-list.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/tracks/text-track-display.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/tracks/text-track-list-converter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/tracks/text-track-list.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/tracks/text-track-settings.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/tracks/text-track.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/tracks/track-enums.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/tracks/track-list.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/tracks/track-types.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/tracks/track.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/tracks/video-track-list.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/tracks/video-track.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/utils/browser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/utils/buffer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/utils/computed-style.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/utils/dom-data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/utils/dom.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/utils/events.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/utils/filter-source.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/utils/fn.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/utils/format-time.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/utils/guid.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/utils/log.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/utils/merge-options.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/utils/obj.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/utils/promise.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/utils/stylesheet.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/utils/time-ranges.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/utils/to-title-case.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/utils/url.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/src/js/video.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/api/api.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/globals-shim.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/karma.conf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/require/browserify.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/require/node.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/require/webpack.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/button.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/clickable-component.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/close-button.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/component.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/controls.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/events.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/extend.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/media-error.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/menu.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/mixins/evented.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/mixins/stateful.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/modal-dialog.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/player-play.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/player.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/plugin-advanced.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/plugin-basic.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/plugin-static.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/poster.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/resize-manager.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/setup.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/tech/html5.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/tech/middleware.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/tech/tech-faker.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/tech/tech.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/test-helpers.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/tracks/audio-track-list.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/tracks/audio-track.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/tracks/audio-tracks.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/tracks/html-track-element-list.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/tracks/html-track-element.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/tracks/text-track-controls.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/tracks/text-track-cue-list.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/tracks/text-track-display.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/tracks/text-track-list-converter.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/tracks/text-track-list.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/tracks/text-track-settings.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/tracks/text-track.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/tracks/text-tracks.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/tracks/track-baseline.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/tracks/track-list.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/tracks/track.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/tracks/video-track-list.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/tracks/video-track.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/tracks/video-tracks.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/utils/dom-data.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/utils/dom.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/utils/filter-source.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/utils/fn.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/utils/format-time.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/utils/log.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/utils/merge-options.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/utils/obj.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/utils/promise.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/utils/time-ranges.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/utils/to-title-case.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/utils/url.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/video.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/test/unit/videojs-hooks.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/.babelrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/.github/ISSUE_TEMPLATE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/.github/PULL_REQUEST_TEMPLATE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/.github/first-timers-issue-template.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/.jsdoc.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/.nvmrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/.remarkignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/.remarkrc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plugin/video.js-6.7.4/.travis.yml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/Home/view.blade.php" afterPath="$PROJECT_DIR$/resources/views/Home/view.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/Mobile/view.blade.php" afterPath="$PROJECT_DIR$/resources/views/Mobile/view.blade.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -453,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -541,8 +126,8 @@
         <option value="$PROJECT_DIR$/public/js/common.js" />
         <option value="$PROJECT_DIR$/resources/views/Common/Mobile.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/Common/Home.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/Home/view.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/Mobile/view.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/Home/view.blade.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
@@ -640,14 +225,6 @@
               <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="plugin" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="video.js-6.7.4" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="newmove" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newmove" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="plugin" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="video.js-6.7.4" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="dist" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="newmove" type="b2602c69:ProjectViewProjectNode" />
@@ -767,12 +344,12 @@
       <workItem from="1520912515572" duration="2125000" />
       <workItem from="1521210072293" duration="584000" />
       <workItem from="1521260181669" duration="6623000" />
-      <workItem from="1521457396440" duration="3395000" />
+      <workItem from="1521457396440" duration="3534000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="193582000" />
+    <option name="totallyTimeSpent" value="193721000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="23" width="1920" height="1057" extended-state="6" />
@@ -1435,58 +1012,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/Home/view.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="717">
-          <caret line="43" column="4" lean-forward="true" selection-start-line="43" selection-start-column="4" selection-end-line="44" selection-end-column="62" />
-          <folding>
-            <marker date="1521462789347" expanded="true" signature="39:116" ph="..." />
-            <marker date="1521462789347" expanded="true" signature="141:1814" ph="..." />
-            <marker date="1521462789347" expanded="true" signature="168:1113" ph="..." />
-            <marker date="1521462789347" expanded="true" signature="194:1102" ph="..." />
-            <marker date="1521462789347" expanded="true" signature="230:969" ph="..." />
-            <marker date="1521462789347" expanded="true" signature="777:950" ph="..." />
-            <marker date="1521462789347" expanded="true" signature="1005:1087" ph="..." />
-            <marker date="1521462789347" expanded="true" signature="1045:1068" ph="..." />
-            <marker date="1521462789347" expanded="false" signature="1147:1164" ph="..." />
-            <marker date="1521462789347" expanded="true" signature="1193:1610" ph="..." />
-            <marker date="1521462789347" expanded="true" signature="1225:1599" ph="..." />
-            <marker date="1521462789347" expanded="true" signature="1315:1593" ph="..." />
-            <marker date="1521462789347" expanded="true" signature="1437:1584" ph="..." />
-            <marker date="1521462789347" expanded="true" signature="1542:1554" ph="..." />
-            <marker date="1521462789347" expanded="true" signature="1638:1780" ph="..." />
-            <marker date="1521462789347" expanded="true" signature="1670:1711" ph="..." />
-            <marker date="1521462789347" expanded="true" signature="1753:1769" ph="..." />
-            <marker date="1521462789347" expanded="true" signature="1838:2042" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/Mobile/view.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1248">
-          <caret line="35" column="62" lean-forward="false" selection-start-line="35" selection-start-column="62" selection-end-line="35" selection-end-column="62" />
-          <folding>
-            <marker date="1521462828092" expanded="true" signature="41:118" ph="..." />
-            <marker date="1521462828092" expanded="true" signature="143:1702" ph="..." />
-            <marker date="1521462828092" expanded="true" signature="170:1112" ph="..." />
-            <marker date="1521462828092" expanded="true" signature="208:1101" ph="..." />
-            <marker date="1521462828092" expanded="true" signature="246:1086" ph="..." />
-            <marker date="1521462828092" expanded="false" signature="310:322" ph="..." />
-            <marker date="1521462828092" expanded="true" signature="762:1013" ph="..." />
-            <marker date="1521462828092" expanded="false" signature="1149:1165" ph="..." />
-            <marker date="1521462828092" expanded="true" signature="1166:1291" ph="..." />
-            <marker date="1521462828092" expanded="true" signature="1215:1280" ph="..." />
-            <marker date="1521462828092" expanded="true" signature="1348:1474" ph="..." />
-            <marker date="1521462828092" expanded="true" signature="1386:1463" ph="..." />
-            <marker date="1521462828092" expanded="false" signature="1511:1527" ph="..." />
-            <marker date="1521462828092" expanded="true" signature="1528:1653" ph="..." />
-            <marker date="1521462828092" expanded="true" signature="1577:1642" ph="..." />
-            <marker date="1521462828092" expanded="true" signature="1726:1935" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/Common/Mobile.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="271">
@@ -1538,10 +1063,62 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Mobile/view.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="1" column="15" lean-forward="true" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+          <folding>
+            <marker date="1521463227340" expanded="true" signature="41:113" ph="..." />
+            <marker date="1521463227340" expanded="true" signature="138:1697" ph="..." />
+            <marker date="1521463227340" expanded="true" signature="165:1107" ph="..." />
+            <marker date="1521463227340" expanded="true" signature="203:1096" ph="..." />
+            <marker date="1521463227340" expanded="true" signature="241:1081" ph="..." />
+            <marker date="1521463227340" expanded="false" signature="305:317" ph="..." />
+            <marker date="1521463227340" expanded="true" signature="757:1008" ph="..." />
+            <marker date="1521463227340" expanded="false" signature="1144:1160" ph="..." />
+            <marker date="1521463227340" expanded="true" signature="1161:1286" ph="..." />
+            <marker date="1521463227340" expanded="true" signature="1210:1275" ph="..." />
+            <marker date="1521463227340" expanded="true" signature="1343:1469" ph="..." />
+            <marker date="1521463227340" expanded="true" signature="1381:1458" ph="..." />
+            <marker date="1521463227340" expanded="false" signature="1506:1522" ph="..." />
+            <marker date="1521463227340" expanded="true" signature="1523:1648" ph="..." />
+            <marker date="1521463227340" expanded="true" signature="1572:1637" ph="..." />
+            <marker date="1521463227340" expanded="true" signature="1721:1925" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Home/view.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          <folding>
+            <marker date="1521463238681" expanded="true" signature="39:111" ph="..." />
+            <marker date="1521463238681" expanded="true" signature="136:1809" ph="..." />
+            <marker date="1521463238681" expanded="true" signature="163:1108" ph="..." />
+            <marker date="1521463238681" expanded="true" signature="189:1097" ph="..." />
+            <marker date="1521463238681" expanded="true" signature="225:964" ph="..." />
+            <marker date="1521463238681" expanded="true" signature="772:945" ph="..." />
+            <marker date="1521463238681" expanded="true" signature="1000:1082" ph="..." />
+            <marker date="1521463238681" expanded="true" signature="1040:1063" ph="..." />
+            <marker date="1521463238681" expanded="false" signature="1142:1159" ph="..." />
+            <marker date="1521463238681" expanded="true" signature="1188:1605" ph="..." />
+            <marker date="1521463238681" expanded="true" signature="1220:1594" ph="..." />
+            <marker date="1521463238681" expanded="true" signature="1310:1588" ph="..." />
+            <marker date="1521463238681" expanded="true" signature="1432:1579" ph="..." />
+            <marker date="1521463238681" expanded="true" signature="1537:1549" ph="..." />
+            <marker date="1521463238681" expanded="true" signature="1633:1775" ph="..." />
+            <marker date="1521463238681" expanded="true" signature="1665:1706" ph="..." />
+            <marker date="1521463238681" expanded="true" signature="1748:1764" ph="..." />
+            <marker date="1521463238681" expanded="true" signature="1833:2032" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
