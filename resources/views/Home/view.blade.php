@@ -42,6 +42,6 @@
 @stop
 @section('script')
     <script src="/plugin/video.js-6.7.4/video.js"></script>
-    <script src="/plugin/videojs-contrib-hls.min.js"></script>
+    <script src="/plugin/videojs-hls/videojs-contrib-hls.min.js"></script>
     <script type="application/javascript" src="/js/view.js?v0.7"></script>
 @stop

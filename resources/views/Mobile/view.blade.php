@@ -33,6 +33,6 @@
 @stop
 @section('script')
     <script src="/plugin/video.js-6.7.4/video.js"></script>
-    <script src="/plugin/videojs-contrib-hls.min.js"></script>
+    <script src="/plugin/videojs-hls/videojs-contrib-hls.min.js"></script>
     <script type="application/javascript" src="/dist/js/view.js?v0.1"></script>
 @stop
